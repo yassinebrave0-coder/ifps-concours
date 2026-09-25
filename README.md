@@ -1,27 +1,35 @@
-# نماذج مباريات التكوين في الميدان الصحي — IFPS 🇲🇦
+# نماذج مباريات التكوين في الميدان الصحي — IFPS Maroc 🇲🇦
 
-مجموعة نماذج مباريات الولوج لمواضع التكوين في مؤسسات التكوين في مزاولة مهن الصحة (IFPS) — تخصص **مساعد في التمريض / Aide-soignant**.
+Compilation complète de tous les concours d'accès aux Instituts de Formation Professionnelle dans le domaine de la Santé (IFPS) au Maroc —OCR clarifié, format officiel noir & blanc.
 
-## ⬇️ التحميل المباشر
+## 📥 التحميل المباشر / Téléchargement direct
 
-**[📄 تحميل النسخة المحسّنة (PDF — 24 صفحة)](https://github.com/yassinebrave0-coder/ifps-concours/raw/main/IFPS-Concours-Enhanced.pdf)**
+**الملف الكامل (كل الامتحانات في ملف واحد — 39 صفحة / 309 سؤالًا):**
+https://github.com/yassinebrave0-coder/ifps-concours/raw/main/IFPS-Concours-ALL-IN-ONE.pdf
 
-أو من قائمة الملفات بالأعلى: `IFPS-Concours-Enhanced.pdf` → زر **Download raw file**.
+**النسخة الأولى (الملف المحسّن الأصلي — 24 صفحة):**
+https://github.com/yassinebrave0-coder/ifps-concours/raw/main/IFPS-Concours-Enhanced.pdf
 
-## ✨ مميزات النسخة المحسّنة
+## 📚 محتويات الملف الكامل / Contenu de l'édition complète
 
-- استخراج النصوص بتقنية **OCR** من نسخة ممسوحة ضوئياً وغير واضحة، مع مراجعة بصرية للدقة
-- **إعادة تنسيق كاملة**: عناوين واضحة، أسئلة مرقمة، خيارات متراصة
-- **غلاف أنيق** + **فهرس محتويات** بأرقام الصفحات
-- نمط رسمي أبيض وأسود مطابق لأوراق الامتحانات الأصلية
-- المحتوى **بالفرنسية كما هو أصلاً** — بدون أي إضافة أو حذف
+### الجزء الأول — سلك التأهيل (مستوى الثالثة إعدادي) — Cycle de Qualification
+- النماذج الأصلية المحسّنة: دورة 24 يونيو 2018 (شعبة مساعد) + دورة 10 يناير 2021 كاملة (مساعد صحي) — 189 سؤالًا
+- **جديد:** النموذج 10 — دورة 11 دجنبر 2022 — شعبة مساعد في العلاج (Aide-soignant) — 40 سؤالًا كاملة
+- **جديد:** النموذج 11 — دورة 01 دجنبر 2024 — سلك التأهيل (Cycle Qualification) — 40 سؤالًا كاملة
 
-## 📊 إحصائيات المحتوى
+### الجزء الثاني — سلك التقني (مستوى الباكالوريا) — Cycle Technicien
+- **جديد:** النموذج 12 — دورة 11 دجنبر 2022 — شعبة تقني في الإسعاف والنقل الصحي (Technicien ambulancier) — 40 سؤالًا كاملة
 
-- **10 أقسام** تغطي نماذج مباريات متعددة (2021، 2018، ونماذج إضافية)
-- **189 سؤالاً** إجمالاً بعد حذف التكرارات
-- 24 صفحة بصيغة A4
+### الملحق
+- الشعب والمستويات الرسمية في IFPS (سلكان: التقني والتأهيل وجميع شعبهما)
+- الإعلان الرسمي لمباراة 2025-2026 (25 يناير 2026 — 1290 مقعدًا)
+- روابط كل المصادر التي عُثر عليها أثناء البحث
 
-## 📌 ملاحظة
+## 🔗 المصادر / Sources
+- الموقع الرسمي للوزارة: https://drh.sante.gov.ma و https://ifps.sante.gov.ma (الإعلانات والنتائج)
+- النماذج: jadid-alwadifa.com/exemples-concours-ifps · educaprof.com/2022/10/ifps.html · infotechfouad.com/2021/09/IFPS.html · bramoinfo.com/2021/01/ifps.html
 
-هذه الملفات لأغراض تعليمية وتحضيرية للمترشحين فقط.
+⚠️ ملاحظة: النصوص مستخرجة بتقنية OCR من مسح ضوئي وصُححت يدويًا. لا تتوفر إجابات نموذجية رسمية للامتحانات.
+
+---
+© Compilation éducative — Édition Clarifiée
